@@ -1,6 +1,6 @@
 # love520
 
-520 这天没想到送啥礼物，临时做的 - -
+纯 CSS 实现的 520 告白动画
 
 ## Project setup
 ```
@@ -15,5 +15,10 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### 发布到 github pages
+```
+sh build.sh
 ```
 
